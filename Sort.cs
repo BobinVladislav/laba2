@@ -1,6 +1,6 @@
 ﻿namespace laba2
 {
-    internal class Sort
+    public class Sort
     {
         static int[] Merge(int[] a, int[] b)
         {
